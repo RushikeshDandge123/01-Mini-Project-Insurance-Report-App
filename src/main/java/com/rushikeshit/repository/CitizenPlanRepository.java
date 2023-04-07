@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import com.rushikeshit.entity.CitizenPlan;
-
+//RepositoryInterface
 @Repository
 public interface CitizenPlanRepository extends JpaRepository<CitizenPlan, Integer> {
 
